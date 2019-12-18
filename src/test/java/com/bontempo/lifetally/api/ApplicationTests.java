@@ -1,10 +1,10 @@
-package com.bontempo.lifetally.demo;
+package com.bontempo.lifetally.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
