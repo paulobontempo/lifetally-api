@@ -1,2 +1,2 @@
 # lifetally-api
-backend for life-tally
+backend for lifetally
